@@ -3,7 +3,7 @@ I don't know why you're here. I don't know if I ever plan on making any signific
 
 These are the languages I<s>'m forced to</s> use.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterkartoffel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterkartoffel&theme=dark&bg_color=0d1117&hide_border=true&layout=compact)
 
 But i can, like, <i>read</i> C. Don't force it, though.
 
